@@ -1,5 +1,5 @@
 body {
-  background-color: #f0f1f3;
+  background-color: #7d92bd;
   font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui,
     helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
   font-style: normal;
@@ -34,7 +34,7 @@ li {
 .title {
   margin-bottom: 15px;
 
-  color: #2196f3;
+  color: #d8ae25;
 
   text-align: center;
 }
